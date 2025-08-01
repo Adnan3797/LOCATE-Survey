@@ -1,6 +1,18 @@
-This readme is about DOTA dataset.
+## 📚 DOTA Dataset – Annotation Error Visualization
 
-## DOTA Dataset Visualization
+The DOTA (Dataset for Object Detection in Aerial Images) dataset is widely used for object detection tasks in remote sensing imagery. While DOTA is a rich and comprehensive benchmark, like many large-scale datasets, it is not immune to annotation inconsistencies and labeling errors.
+
+This README serves as a visual reference guide showcasing various types of common annotation errors found during an extensive analysis of the dataset. By understanding these issues, researchers and practitioners can:
+
+Improve model robustness through targeted augmentation.
+
+Identify sources of poor performance during training/evaluation.
+
+Guide annotation correction or quality assurance workflows.
+
+Below, each error category is defined and illustrated using real examples from the DOTA dataset.
+
+## 🧾 DOTA Dataset Visualization
 
 Below is an example visualization of the DOTA dataset:
 
