@@ -12,7 +12,7 @@ Make sure you are in the project directory where the `requirements.txt` file is 
 
 Below is an example visualization of the DOTA dataset:
 
-![DOTA Example Visualization](./images/dota_sample.png)
+![DOTA Example Visualization](./Error Images/DOTAMissing1.png)
 
 _Figure: Sample image from the DOTA dataset with annotated objects._
 
